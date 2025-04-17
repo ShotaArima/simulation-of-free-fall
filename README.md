@@ -10,4 +10,4 @@
   - 火星
   - 太陽
 ## 参考文献
-- []()
+- [Pythonの応用2 〜運動方程式の数値解〜](https://python-textbook.readthedocs.io/en/latest/src/application2.html)
